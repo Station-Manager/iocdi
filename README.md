@@ -1,6 +1,4 @@
-# 7Q-Station-Manager: IoC/DI module
-
-[![ci](https://github.com/7Q-Station-Manager/iocdi/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/7Q-Station-Manager/iocdi/actions/workflows/ci.yml)
+# Station Manager: IoC/DI package
 
 A small, reflection-based dependency injection container for Go. It lets you:
 - Register beans by ID either by type (structs normalized to pointers) or by instance
